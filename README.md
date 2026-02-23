@@ -1,7 +1,7 @@
 # 🏞️ Thanasis Koukouras  
 
-🎓 I am a final-year **Electrical & Computer Engineering** student at the University of Western Macedonia, Greece.  
-🔥 Passionate about **web development, mobile apps, and volunteer tech initiatives**.  
+🎓 I am a final-year student in the **Computer & Telecommunications Engineering** program at the Department of Electrical and Computer Engineering, University of Western Macedonia, Greece.  
+🔥 Passionate about **web development, mobile apps and volunteer tech initiatives**.  
 ✔️ Recently **developed an Android app** to help Civil Protection volunteer teams monitor all active incidents in their area in real time.  
 🌐 Learning modern web technologies through an active Web Development Bootcamp project using **React, Node.js and MongoDB**.   
 🚀 My **next volunteer project** will be an app designed to automate firefighting shift scheduling for my Civil Protection volunteer team, an essential tool to support our daily operations during the summer wildfire season.  
